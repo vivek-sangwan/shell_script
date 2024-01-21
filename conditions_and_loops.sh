@@ -4,7 +4,6 @@
 # Author: Vivek Sangwan
 # Date: 20/01/24
 #
-# This scripts output the node health (Learning Bash Shell Scripting)
 # Version: v1
 #########################
 
